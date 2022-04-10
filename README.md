@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7deter
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I hope to become a senior software engineer in the future
 - 📫 How to reach me 2101324431@qq.com
 
 <!---
